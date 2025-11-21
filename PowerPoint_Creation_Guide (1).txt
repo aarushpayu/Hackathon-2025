@@ -1,0 +1,314 @@
+# PROFIT PIRATES - POWERPOINT CREATION GUIDE
+
+## Design Specifications
+
+### Color Scheme
+- **Primary Green**: #15b363 (RGB: 21, 179, 99)
+- **Light Green Background**: #E8F7EF
+- **Dark/Black**: #000000
+- **White**: #FFFFFF
+
+### Typography
+- **Main Headings**: Large, Bold, Sans-serif (Arial or Calibri)
+- **Subheadings**: Medium, Bold
+- **Body Text**: Regular, Sans-serif
+- **Emoji Icons**: Use where indicated (📄, 📊, 🏦, ⚖️, 💼, etc.)
+
+### Layout Style
+- Modern, clean design
+- Centered content
+- Green accent colors
+- Icons and emojis for visual interest
+- Call-to-action buttons in green
+
+---
+
+## SLIDE 1: Title Slide
+**Layout**: Title Slide
+**Background**: White or Light Green (#E8F7EF)
+
+### Content:
+**Main Title** (Centered, Large, Bold, Green #15b363):
+AI-Powered Financial Intelligence Agents
+
+**Subtitle** (Centered, Medium):
+Profit Pirates - Hackathon Submission
+
+**Tagline** (Centered, Below):
+Three specialized AI agents revolutionizing financial compliance and analysis
+
+**Bottom Note**:
+From agreement analysis to Ind AS 109 compliance and RBI circular interpretation
+
+**Buttons/Links**:
+- [Try Our Agents] (Green button)
+- [Watch Video] (Outlined green button)
+
+---
+
+## SLIDE 2: Demo Overview
+**Layout**: Title and Content
+**Background**: White
+
+### Content:
+**Title** (Green, Bold):
+See Our Agents in Action
+
+**Body Text** (Centered):
+Watch our comprehensive demo showcasing all three AI agents solving real financial challenges
+
+**Visual Element**:
+- Add a video thumbnail or demo screenshot if available
+- Or add play button icon
+
+---
+
+## SLIDE 3: Sample Questions
+**Layout**: Title and Content
+**Background**: Light Green (#E8F7EF)
+
+### Content:
+**Title** (Green, Bold):
+Try These Questions
+
+**Subtitle**:
+Click any question to open the respective agent and ask
+
+**Three Columns of Questions**:
+
+**Column 1: Agreement Analyzer**
+- What are the key termination clauses in this agreement?
+- Summarize the payment terms and conditions
+- What are the liability limitations mentioned?
+
+**Column 2: Ind AS 109 Expert**
+- How should we classify this financial instrument?
+- What is the ECL calculation methodology?
+- Explain hedge accounting requirements
+
+**Column 3: RBI Circular Navigator**
+- What are the latest NPA classification norms?
+- Summarize recent KYC guideline updates
+- What are the current priority sector lending targets?
+
+---
+
+## SLIDE 4: AI Agents Overview
+**Layout**: Three Columns
+**Background**: White
+
+### Content:
+**Title** (Centered, Green, Bold):
+Chat with Our AI Agents
+
+**Subtitle**:
+Click on any agent below to start chatting
+
+**Three Cards (Equal Width)**:
+
+**Card 1:**
+📄 **Agreement Analyzer**
+Analyze financial agreements and contracts
+[→] Link/Button
+
+**Card 2:**
+📊 **Ind AS 109 Expert**
+Get guidance on financial instruments accounting
+[→] Link/Button
+
+**Card 3:**
+🏦 **RBI Circular Navigator**
+Navigate RBI regulations and circulars
+[→] Link/Button
+
+*Design Note: Each card should have a light background with green accent border*
+
+---
+
+## SLIDE 5: Team
+**Layout**: Title and Content
+**Background**: Light Green (#E8F7EF)
+
+### Content:
+**Title** (Centered, Green, Bold):
+Meet the Profit Pirates
+
+**Subtitle**:
+The talented team behind this innovative solution
+
+**Visual Element**:
+- Add team photos or placeholder avatars
+- List team member names and roles
+- Or create space for team information
+
+---
+
+## SLIDE 6: Project Overview
+**Layout**: Title and Content
+
+### Content:
+**Title**: Technical Details - Project Overview
+
+**Body**:
+Profit Pirates is an innovative AI solution designed to revolutionize how financial professionals interact with complex financial documents, accounting standards, and regulatory information.
+
+**Key Point**:
+Our platform consists of three specialized AI agents, each expertly trained to handle specific domains of financial intelligence.
+
+---
+
+## SLIDE 7: Technical Architecture
+**Layout**: Title and Content
+
+### Content:
+**Title**: Technical Architecture
+
+**Subtitle**:
+Built on PayU's proprietary AI platform Toqan
+
+**Four Key Components** (Bullet Points with Icons):
+• **Custom Knowledge Base**: Tailored datasets for each domain
+• **Web Interface**: User-friendly chat interface for interactions
+• **Conversation Management**: Stateful conversations with context retention
+• **Document Processing**: Advanced NLP for document understanding
+
+---
+
+## SLIDE 8: Agent 1 - Agreement Analyzer
+**Layout**: Title and Content
+**Icon**: 📄
+
+### Content:
+**Title**: Agent 1: Agreement Analyzer
+
+**Purpose**:
+Analyzes uploaded financial agreements and answers user queries about contract terms, clauses, and obligations
+
+**Capabilities** (Bullet Points):
+• Intelligent clause extraction and summarization
+• Risk identification and highlighting
+• Quick answers to specific contract questions
+
+---
+
+## SLIDE 9: Agent 2 - Ind AS 109 Expert
+**Layout**: Title and Content
+**Icon**: 📊
+
+### Content:
+**Title**: Agent 2: Ind AS 109 Expert
+
+**Purpose**:
+Provides expert guidance on Indian Accounting Standard 109 (Financial Instruments)
+
+**Capabilities** (Bullet Points):
+• Comprehensive knowledge of Ind AS 109 requirements
+• Classification and measurement guidance
+• Expected Credit Loss (ECL) methodology explanations
+• Hedge accounting interpretation
+• Practical examples and case studies
+
+---
+
+## SLIDE 10: Agent 3 - RBI Circular Navigator
+**Layout**: Title and Content
+**Icon**: 🏦
+
+### Content:
+**Title**: Agent 3: RBI Circular Navigator
+
+**Purpose**:
+Helps navigate and understand latest Reserve Bank of India circulars and regulatory requirements
+
+**Capabilities** (Bullet Points):
+• Up-to-date database of RBI circulars and notifications
+• Quick regulatory compliance checks
+• Policy interpretation and clarification
+
+---
+
+## SLIDE 11: Key Benefits
+**Layout**: Title and Content
+**Background**: Light Green (#E8F7EF)
+
+### Content:
+**Title**: Key Benefits
+
+**Five Benefits** (Large, with Icons):
+⏱️ **Time Savings**: Reduce document review time by 70%
+🎯 **Accuracy**: AI-powered analysis minimizes human error
+🔓 **Accessibility**: 24/7 access to financial expertise
+📈 **Scalability**: Handle multiple queries simultaneously
+✅ **Compliance**: Stay updated with latest regulations automatically
+
+---
+
+## SLIDE 12: Use Cases
+**Layout**: Two Columns
+
+### Content:
+**Title**: Use Cases
+
+**Column 1: Legal & Compliance Teams**
+• Quick contract review and risk assessment
+• Regulatory compliance verification
+
+**Column 2: Finance & Accounting**
+• Accounting standard interpretation
+• Financial instrument classification
+
+**Column 3: Risk Management**
+• Regulatory change impact analysis
+• Credit risk assessment guidance
+
+---
+
+## SLIDE 13: Future Enhancements
+**Layout**: Title and Content
+
+### Content:
+**Title**: Future Enhancements
+
+**Roadmap** (Bullet Points):
+🔮 Additional agents for other accounting standards (Ind AS 115, 116, etc.)
+🔗 Integration with document management systems
+🔔 Automated alert system for new RBI circulars
+📊 Advanced analytics and reporting dashboard
+
+---
+
+## SLIDE 14: Thank You / Closing Slide
+**Layout**: Title Slide
+**Background**: Green (#15b363)
+
+### Content:
+**Main Text** (White, Centered, Large):
+Thank You!
+
+**Subtitle** (White):
+Profit Pirates - AI Financial Intelligence Agents
+
+**Call to Action** (White):
+Ready to revolutionize your financial workflow?
+[Try Our Agents] [Contact Us]
+
+---
+
+## Additional Design Tips:
+
+1. **Transitions**: Use simple fade or push transitions between slides
+2. **Animation**: Subtle animations for bullet points (appear one by one)
+3. **Consistency**: Keep the same font family throughout
+4. **White Space**: Don't overcrowd slides - use white space effectively
+5. **Icons**: Use consistent icon style (outlined or filled, not mixed)
+6. **Branding**: Add logo on each slide (top right corner) if available
+7. **Footer**: Slide numbers on bottom right (except title slides)
+
+## Font Recommendations:
+- **Primary**: Montserrat, Poppins, or Inter (Modern sans-serif)
+- **Alternative**: Calibri or Arial (if custom fonts unavailable)
+- **Sizes**: 
+  - Title: 44pt
+  - Subtitle: 32pt
+  - Body: 18-24pt
+  - Captions: 14-16pt
